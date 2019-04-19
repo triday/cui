@@ -1,0 +1,23 @@
+{
+  "name": "cui-core",
+  "version": "1.0.0",
+  "description": "define cui interfaces(Typescript).",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triday/cui-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triday/cui-core/issues"
+  },
+  "homepage": "https://github.com/triday/cui-core#readme",
+  "devDependencies": {
+    "typescript": "^3.4.4"
+  }
+}
