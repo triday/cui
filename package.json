@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/triday/cui-core#readme",
   "devDependencies": {
+    "initfiles": "^1.0.0",
     "typescript": "^3.4.4"
   }
 }
